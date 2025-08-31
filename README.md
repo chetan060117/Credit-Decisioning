@@ -1,4 +1,4 @@
-## Credit Decisioning
+########## Credit Decisioning
 
 This project demonstrates a full-stack data science workflow for credit risk modeling, moving beyond traditional statistical metrics to a business-centric, profit-maximized approach. The final output is an interactive Streamlit dashboard designed for risk analysts and lending managers.
 
